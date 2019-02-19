@@ -5,6 +5,10 @@ Application example to show the web camera image as if it is PinArt on Looking G
 
 ウェブカメラの映像をLooking Glass上でピンアートボックスのように表示するアプリケーションです。
 
+https://twitter.com/baku_dreameater/status/1094948481641283586
+
+https://twitter.com/baku_dreameater/status/1094953725406240768
+
 
 ## How to Specify the Web Camera / ウェブカメラの設定方法
 
@@ -27,3 +31,4 @@ If FPS goes down, please reduce the number of pin `Horizontal Division` and `Ver
 
 * [Twitter](https://twitter.com/baku_dreameater)
 * [Blog](https://www.baku-dreameater.net/)
+
